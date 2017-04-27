@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- can change the colors of the app here -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#6F55A8</color>
+    <color name="displayColor">#4E78A0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange_operators">#CC6600</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="button_grey">#CACCCE</color>
+    <!--<color name="button_border_color">#3bea38</color> -->
+    <color name="button_border_color">#86888A</color>
+</resources>

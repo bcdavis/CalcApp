@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="regular_text">30sp</dimen>
+    <dimen name="marg_LandR">2sp</dimen>
+    <dimen name="padd_top_bottom">25sp</dimen>
+
+
+
+
+
+
+</resources>
